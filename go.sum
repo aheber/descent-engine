@@ -1,0 +1,10 @@
+github.com/aheber/go-sfdc v0.0.0-20190830002821-1624e0b61a1a h1:4LqlMl0MBLbhD/NB8MoFANH7q6NOKt0Mk1Zz596PXCk=
+github.com/aheber/go-sfdc v0.0.0-20190830002821-1624e0b61a1a/go.mod h1:qCeJlLxqjjEMHfsZNt+DYYrFwAw/nEj+DvadQ6IhJF8=
+github.com/aheber/go-sfdc v0.0.0-20190919033513-d302235e6f3c h1:uBrxiFC+rLjSs9pF8jR1T24y1zT3w4dygC9ExSndBfc=
+github.com/aheber/go-sfdc v0.0.0-20190919033513-d302235e6f3c/go.mod h1:qCeJlLxqjjEMHfsZNt+DYYrFwAw/nEj+DvadQ6IhJF8=
+github.com/aheber/go-sfdc v0.0.0-20190919040515-3694a635629a h1:Yi8FtTMif1B+KpRDB4O9Mq0yNuc180wKiCSUzwdRBIw=
+github.com/aheber/go-sfdc v0.0.0-20190919040515-3694a635629a/go.mod h1:qCeJlLxqjjEMHfsZNt+DYYrFwAw/nEj+DvadQ6IhJF8=
+github.com/g8rswimmer/go-sfdc v0.0.0-20190722022941-7e0b3230725c h1:Tg8yEqBjeUHotdoNYtgx4KpJfkVIAy/VP5cxiLsYLyc=
+github.com/g8rswimmer/go-sfdc v0.0.0-20190722022941-7e0b3230725c/go.mod h1:Nn5s4odQdoeOBK87o+QfLtNXC1wSqMPfzo2CC9QnYI8=
+github.com/g8rswimmer/go-sfdc v0.0.0-20190902230624-a77434cd4c4a h1:eVyns+gNYBy3GCpjV6VrdsDnKg0PylmpmU3IJpY/S5I=
+github.com/g8rswimmer/go-sfdc v0.0.0-20190902230624-a77434cd4c4a/go.mod h1:Nn5s4odQdoeOBK87o+QfLtNXC1wSqMPfzo2CC9QnYI8=
